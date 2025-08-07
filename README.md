@@ -1,20 +1,32 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+My+GitHub+Profile;Exploring+the+world+of+code;Sharing+my+projects+and+learnings;Enjoy+your+stay!&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=𝗛𝗶𝗶+𝗜+𝗮𝗺+𝗔𝗚𝗦;𝗔+𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿+𝗮𝗻𝗱+𝗮+𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿;𝗪𝗲𝗹𝗰𝗼𝗺𝗲+𝘁𝗼+𝗺𝘆+𝗥𝗲𝗽𝗼" alt="Typing SVG" />
 </p>
 
+
 <h2 align="center">
-    ──「𝖢𝗈𝖽𝖾𝖿𝗅𝗂𝗑 𝖡𝗈𝗍𝗌 𝖯𝗋𝗈𝖿𝗂𝗅𝖾 」──
+    ──「AGS MODS 」──
 </h2>
 
 <div style="display: flex;">
   <div style="flex: 1;">
+    
+# 👋 Welcome to My World!
 
-# Hi there! 👋
+Hi there! I'm **AGS** — a passionate **Developer** and **Creative Designer**.  
+I love building efficient, scalable, and beautiful solutions using **Python** and other modern technologies.
 
-Welcome to my GitHub profile! I'm a passionate Python developer who loves creating impactful and innovative projects. 
-I like to follow the people with good projects but little followers. 😊
+🚀 Let's build the future together — one project at a time.
 
-Here's a bit more about me:
+---
+
+### 💻 What I Do:
+- 🔧 Python Automation & Telegram Bots
+- 🎨 UI/UX and Graphic Design
+- ⚙️ Open-source contributions
+- 🌐 Web development
+
+---
+
 <p align="center">
 <img src="https://graph.org/file/fdc47d088a48eb981c713.jpg">
 </p>
@@ -42,7 +54,7 @@ Here's a bit more about me:
 
   _and more!_
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=codeflix-bots)](https://github.com/codeflix-bots/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Agsmodsog)](https://github.com/codeflix-bots/github-readme-stats)
 
 ---
 
@@ -66,7 +78,7 @@ Here's a bit more about me:
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
 ![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
 
-![Profile counter](https://moe-counter.glitch.me/get/@codeflix-bots)
+![Profile counter](https://moe-counter.glitch.me/get/@Agsmodsog)
 
 ### 🤝 Collaboration
 
@@ -83,4 +95,4 @@ You can connect with me on various platforms:
 
 <br>
 
-Thanks for visiting my profile! Feel free to explore my repositories, and don't forget to leave a star ⭐️ if you find something interesting!
+Thanks for stopping by! Feel free to ⭐ any project you like or fork and build your own. Let's grow together!
