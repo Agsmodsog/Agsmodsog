@@ -28,7 +28,7 @@ I love building efficient, scalable, and beautiful solutions using **Python** an
 ---
 
 <p align="center">
-<img src="https://graph.org/file/fdc47d088a48eb981c713.jpg">
+<img src="https://envs.sh/hKg.jpg/IMG20250808508.jpg">
 </p>
 
 <br>
@@ -46,11 +46,6 @@ I love building efficient, scalable, and beautiful solutions using **Python** an
 - **Tools:** Git, Docker, VS Code
 - **Databases:** PostgreSQL, MongoDB
 
-## Here is some of the projects I've worked on
-
-- ❤  [Auto Filter](https://github.com/codeflix-bots/autofilter) - ᴛʜᴇ ᴍᴏsᴛ ᴩᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴜᴛᴏғɪʟᴛᴇʀ bot + ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴀɴᴅ ɪ ʜᴀᴠᴇ sᴏᴍᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs.
-- 📽️ [File Store](https://github.com/codeflix-bots/filestore) - A Telegram Advance Bot to store Posts and Documents and it can Access by Special Links. 
-- 📁 [Auto Rename](https://github.com/codeflix-bots/AutoRename) - ᴛʜᴇ auto ʀᴇɴᴀᴍᴇ ʙᴏᴛ! ᴡʜɪᴄʜ ᴄᴀɴ ᴀᴜᴛᴏʀᴇɴᴀᴍᴇ ʏᴏᴜʀ ғɪʟᴇs ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ ᴀɴᴅ ᴛʜᴜᴍʙɴᴀɪʟ.
 
   _and more!_
 
@@ -90,8 +85,7 @@ I enjoy collaborating with other developers and learning from their experiences.
 
 You can connect with me on various platforms:
 
-- [![telegram](https://img.shields.io/badge/Yato-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/cosmic_freak)
-- [![gmail](https://img.shields.io/badge/Codeflix_Bots-Gmail-red?style=for-the-badge&logo=gmail)](mailto:codeflixbots@gmail.com)
+- [![telegram](https://img.shields.io/badge/Yato-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/AgsModsOG)
 
 <br>
 
